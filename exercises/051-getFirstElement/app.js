@@ -1,5 +1,5 @@
 function getFirstElement(array) {
-  // Add your code after this line
+  return array[0]
 
 }
 
